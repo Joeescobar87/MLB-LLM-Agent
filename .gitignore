@@ -1,0 +1,8 @@
+MLB_Agent_LLM_Venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+data/*.csv
+Archive.zip
